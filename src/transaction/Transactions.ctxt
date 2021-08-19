@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Transactions
+comment1.params=
+comment1.target=Transactions()
+comment2.params=list
+comment2.target=Transactions(Transaction[])
+comment3.params=transaction
+comment3.target=void\ add(Transaction)
+comment4.params=acctNum
+comment4.target=Transaction\ getTransaction(java.lang.String)
+comment5.params=
+comment5.target=int\ getSize()
+comment6.params=i
+comment6.target=Transaction\ getTransaction(int)
+numComments=7

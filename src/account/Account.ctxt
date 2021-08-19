@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Account
+comment1.params=acctNum\ company\ prime
+comment1.target=Account(java.lang.String,\ java.lang.String,\ boolean)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.lang.String\ getAcctNum()
+comment3.params=
+comment3.target=java.lang.String\ getCompany()
+comment4.params=
+comment4.target=boolean\ isPrime()
+comment5.params=company
+comment5.target=void\ setCompany(java.lang.String)
+comment6.params=prime
+comment6.target=void\ setPrime(boolean)
+comment7.params=vehicle
+comment7.target=void\ addReservedVehicle(vehicle.Vehicle)
+comment8.params=vin
+comment8.target=void\ removeReservedVehicle(java.lang.String)
+comment9.params=
+comment9.target=vehicle.Vehicles\ getReservedVehicles()
+numComments=11

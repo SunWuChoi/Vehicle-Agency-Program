@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Accounts
+comment1.params=
+comment1.target=Accounts()
+comment2.params=list
+comment2.target=Accounts(Account[])
+comment3.params=account
+comment3.target=void\ add(Account)
+comment4.params=acctNum
+comment4.target=boolean\ remove(java.lang.String)
+comment5.params=acctNum
+comment5.target=Account\ getAccount(java.lang.String)
+comment6.params=
+comment6.target=int\ getSize()
+comment7.params=i
+comment7.target=Account\ getAccount(int)
+numComments=8

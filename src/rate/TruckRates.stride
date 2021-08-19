@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class name="TruckRates" extends="VehicleRates" extends-java="VehicleRates" enable="true" strideversion="1">
+    <javadoc xml:space="preserve"/>
+    <imports/>
+    <implements/>
+    <fields/>
+    <constructors>
+        <comment xml:space="preserve">Assignment - Sun Wu Choi COSC 237-004 Spring, 2019 @author Sun Wu Choi</comment>
+        <constructor access="public" enable="true">
+            <javadoc xml:space="preserve"/>
+            <params>
+                <param type="double" type-java="double" name="daily"/>
+                <param type="double" type-java="double" name="weekly"/>
+                <param type="double" type-java="double" name="monthly"/>
+                <param type="double" type-java="double" name="milage"/>
+                <param type="double" type-java="double" name="insurance"/>
+            </params>
+            <throws/>
+            <delegate target="super" params="daily,weekly,monthly,milage,insurance" params-java="daily, weekly, monthly, milage, insurance"/>
+            <body>
+                <call expression="System.out.println(&quot;dsf&quot;)" expression-java="System.out.println(&quot;dsf&quot;)" enable="true"/>
+                <blank/>
+            </body>
+        </constructor>
+    </constructors>
+    <methods/>
+</class>

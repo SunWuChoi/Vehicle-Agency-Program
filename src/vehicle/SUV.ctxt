@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SUV
+comment1.params=description\ mpg\ seats\ cargo\ vin
+comment1.target=SUV(java.lang.String,\ int,\ int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

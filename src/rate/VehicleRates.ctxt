@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=VehicleRates
+comment1.params=daily\ weekly\ monthly\ milage\ insurance
+comment1.target=VehicleRates(double,\ double,\ double,\ double,\ double)
+comment10.params=milage_rate
+comment10.target=void\ setMilage_rate(double)
+comment11.params=
+comment11.target=double\ getDaily_insurance_rate()
+comment12.params=daily_insurance_rate
+comment12.target=void\ setDaily_insurance_rate(double)
+comment2.params=
+comment2.target=VehicleRates.Cost\ cloneAsCostType()
+comment3.params=
+comment3.target=double\ getDaily_rate()
+comment4.params=daily_rate
+comment4.target=void\ setDaily_rate(double)
+comment5.params=
+comment5.target=double\ getWeekly_rate()
+comment6.params=weekly_rate
+comment6.target=void\ setWeekly_rate(double)
+comment7.params=
+comment7.target=double\ getMonthly_rate()
+comment8.params=monthly_rate
+comment8.target=void\ setMonthly_rate(double)
+comment9.params=
+comment9.target=double\ getMilage_rate()
+numComments=13

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=TruckRates
+comment1.params=daily\ weekly\ monthly\ milage\ insurance
+comment1.target=TruckRates(double,\ double,\ double,\ double,\ double)
+numComments=2

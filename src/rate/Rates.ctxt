@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Rates
+comment1.params=Car\ SUV\ Truck
+comment1.target=Rates(VehicleRates,\ VehicleRates,\ VehicleRates)
+comment2.params=ratesInput
+comment2.target=Rates(Rates)
+comment3.params=
+comment3.target=VehicleRates\ getCarRates()
+comment4.params=
+comment4.target=VehicleRates\ getSUVRates()
+comment5.params=
+comment5.target=VehicleRates\ getTruckRates()
+numComments=6

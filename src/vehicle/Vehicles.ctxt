@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Vehicles
+comment1.params=
+comment1.target=Vehicles()
+comment2.params=list
+comment2.target=Vehicles(Vehicle[])
+comment3.params=vehicle
+comment3.target=void\ add(Vehicle)
+comment4.params=VIN
+comment4.target=boolean\ remove(java.lang.String)
+comment5.params=VIN
+comment5.target=Vehicle\ getVehicle(java.lang.String)
+comment6.params=
+comment6.target=int\ getSize()
+comment7.params=i
+comment7.target=Vehicle\ getVehicle(int)
+numComments=8

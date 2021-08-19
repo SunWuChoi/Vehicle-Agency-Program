@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Transaction
+comment1.params=acctNum\ company\ vehicleType\ rentalPeriod\ rentalCost
+comment1.target=Transaction(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getAcctNum()
+comment3.params=
+comment3.target=java.lang.String\ getCompany()
+comment4.params=
+comment4.target=java.lang.String\ getVehicleType()
+comment5.params=
+comment5.target=java.lang.String\ getRentalPeriod()
+comment6.params=
+comment6.target=java.lang.String\ getRentalCost()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
